@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ethan Gardsbane"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Aspiring Cloud Pentester | CS + Cybersecurity Student"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
